@@ -5,7 +5,7 @@ function setup() {
 }
 
 function draw() {
-   background(250);
+   background(0000);
   fill(250,170,35);    
   rect(mouseX, height/2, mouseY/2+10, mouseY/2+10);
   fill(215,130,40);
